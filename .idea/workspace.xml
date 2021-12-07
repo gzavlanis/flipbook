@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e266ba7-1d69-4aa0-aa8d-2199be4a0825" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21VtyAYRopuUNkDg3ESmBAkWll1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Contact Page" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Debug Application">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.eject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e266ba7-1d69-4aa0-aa8d-2199be4a0825" name="Default Changelist" comment="" />
+      <created>1638038334601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638038334601</updated>
+      <workItem from="1638038337157" duration="676000" />
+      <workItem from="1638039213720" duration="2190000" />
+      <workItem from="1638041675440" duration="7368000" />
+      <workItem from="1638102374237" duration="5662000" />
+      <workItem from="1638108731713" duration="4359000" />
+      <workItem from="1638114024594" duration="7249000" />
+      <workItem from="1638173769509" duration="475000" />
+      <workItem from="1638729005033" duration="46000" />
+      <workItem from="1638729238307" duration="105000" />
+      <workItem from="1638729571796" duration="59000" />
+      <workItem from="1638729675090" duration="24000" />
+      <workItem from="1638730548633" duration="116000" />
+      <workItem from="1638730684156" duration="11785000" />
+      <workItem from="1638775975160" duration="19569000" />
+      <workItem from="1638822096490" duration="2469000" />
+      <workItem from="1638862934770" duration="11839000" />
+      <workItem from="1638876041585" duration="36000" />
+      <workItem from="1638876362846" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2527" y="262" key="#Notifications" timestamp="1638730709647">
+      <screen x="1920" y="0" width="1440" height="852" />
+    </state>
+    <state x="2527" y="262" key="#Notifications/0.0.1280.672/1920.0.1440.852@1920.0.1440.852" timestamp="1638730709647" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638042213518">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1638042213518" />
+    <state x="371" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638114943298">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="371" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672/1920.0.1440.852@0.0.1280.672" timestamp="1638114943298" />
+    <state x="421" y="91" key="FileChooserDialogImpl" timestamp="1638743940270">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672/1920.0.1440.852@0.0.1280.672" timestamp="1638108023519" />
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672/1920.0.1440.900@0.0.1280.672" timestamp="1638743940270" />
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1638041778209" />
+    <state width="1259" height="161" key="GridCell.Tab.0.bottom" timestamp="1638113990106">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1440.852@0.0.1280.672" timestamp="1638113990106" />
+    <state width="1259" height="161" key="GridCell.Tab.0.center" timestamp="1638113990106">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1440.852@0.0.1280.672" timestamp="1638113990106" />
+    <state width="1259" height="161" key="GridCell.Tab.0.left" timestamp="1638113990106">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1440.852@0.0.1280.672" timestamp="1638113990106" />
+    <state width="1259" height="161" key="GridCell.Tab.0.right" timestamp="1638113990106">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1440.852@0.0.1280.672" timestamp="1638113990106" />
+    <state x="257" y="77" key="IDE.errors.dialog" timestamp="1638868964222">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="2220" y="161" key="IDE.errors.dialog/0.0.1280.672/1920.0.1440.852@1920.0.1440.852" timestamp="1638731052870" />
+    <state x="257" y="77" key="IDE.errors.dialog/0.0.1280.672@0.0.1280.672" timestamp="1638868964222" />
+    <state x="2141" y="0" key="SettingsEditor" timestamp="1638731025067">
+      <screen x="1920" y="0" width="1440" height="852" />
+    </state>
+    <state x="2141" y="0" key="SettingsEditor/0.0.1280.672/1920.0.1440.852@1920.0.1440.852" timestamp="1638731025067" />
+  </component>
+</project>
